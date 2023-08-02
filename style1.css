@@ -40,7 +40,6 @@ nav{
     margin-right:10px;
     display: flex;
     text-decoration: none;
-    cursor:default;
     align-items: center;
     gap: 2px;
 }
@@ -49,7 +48,6 @@ nav{
     padding-left: 6px;
     padding-right: 6px;
     color: white;
-    cursor:default;
     text-decoration: none;
     border-right: 0.8px solid white;
 
