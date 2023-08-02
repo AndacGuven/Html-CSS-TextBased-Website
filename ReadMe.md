@@ -14,11 +14,11 @@ This design has dark&light mode.
 
 <mark>Mobile (dark mode off) :</mark>
 
-<img src="images/light.png" >
+<img src="images/light1.jpg" >
 
 <mark style="background-color: darkgrey">Mobile (dark mode on) :</mark>
 
-<img src="images/dark1.png" >
+<img src="images/dark1.jpg" >
 
 An easy solution is given in the link below.
 
